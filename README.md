@@ -1,6 +1,4 @@
 # Java_Practice
-1. How to use eclipse
-2. Getting started
 3. How java works
 4. Variable in java
 5. Working with variables
